@@ -10,6 +10,8 @@ Prazer, sou estudante de Engenharia de Software na CES/JF, apaixonado por progra
 ![html](https://img.shields.io/badge/html-111?style=for-the-badge&logo=html5) 
 ![css](https://img.shields.io/badge/css-111?style=for-the-badge&logo=css3&logoColor=blue) 
 ![js](https://img.shields.io/badge/Javascript-111?style=for-the-badge&logo=javascript&logoColor=yellow) 
+![php](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=blue) 
+![MySql](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql) 
 
 ## 📲 Conecte-se comigo 
 
